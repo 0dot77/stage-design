@@ -1,0 +1,12 @@
+---
+layout: ../../layouts/WeeklyPageLayout.astro
+title: "week-02"
+author: "Taeyang YOO"
+date: "04 March 2024"
+---
+
+# Week-2
+
+## 강의 자료
+
+[Week 2 - Art Tech Trend](https://docs.google.com/presentation/d/1pTTegXW4DeG08fhr3RsHoUDSw9dtN3OvLtuHwufdamo/edit?usp=sharing)
